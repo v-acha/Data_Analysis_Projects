@@ -1,4 +1,5 @@
 ## Baseball Analysis
+![image](https://github.com/user-attachments/assets/21890f0a-82b4-411c-9d81-e7f39d10f575)
 
 ## Project Overview
 This project utilizes MLB-StatsAPI and the pybaseball Python package to retrieve, clean, and visualize comprehensive baseball statistics. The dataset includes various metrics at the individual pitch level, as well as aggregated data over seasons from 2018 to 2024. Interactive Tableau dashboards provide valuable insights into baseball performance, complemented by a detailed data dictionary. Initially developed as a group project for a visualization class, I expanded it by building additional dashboards to deepen my understanding of baseball.
@@ -12,7 +13,8 @@ Data is fetched using the pybaseball package and saved as yearly CSV files.
 The yearly data is then combined into a single dataset for analysis.
 Code snippets for data fetching and cleaning are included.
 
-## Tableau Dashboards: https://public.tableau.com/app/profile/vanellsa.acha/viz/Baseball_17216957934700/RunExpectancy 
+## Tableau Dashboards: 
+Link: https://public.tableau.com/app/profile/vanellsa.acha/viz/Baseball_17216957934700/RunExpectancy 
 
 1. **Run Expectancy by Pitch Type and Team:** Analyzes the impact of different pitch types on run expectancy.
 2. **Actual Batting Average vs. Expected Batting Average:** Compares players' actual batting averages against their expected averages.
