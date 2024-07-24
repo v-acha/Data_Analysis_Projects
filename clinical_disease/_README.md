@@ -1,4 +1,5 @@
 # Clinical Disease Genetic Mutations Analysis
+![image](https://github.com/user-attachments/assets/19fe066a-852c-47a8-b361-39fe6f948426)
 
 This project involves the analysis of a dataset containing genetic mutations and their clinical significance. The dataset was sourced from ClinVar, a repository of expert-curated genetic disease information. The goal is to identify and analyze harmful mutations, focusing on their genetic positions, mutation values, and associated diseases. This analysis will provide insights into the potential impacts of these mutations on health and their relevance to clinical and therapeutic research.
 
