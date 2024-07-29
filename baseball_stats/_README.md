@@ -24,6 +24,8 @@ Link: https://public.tableau.com/app/profile/vanellsa.acha/viz/Baseball_17216957
 
 ## website:
 Built a website to host visualizations using css, html, javascript, python flask.
+Baseball Viz is a web platform developed as part of a class project to visualize baseball statistics. The site provides detailed data on team and player performance, historical trends, and advanced metrics through interactive dashboards and charts. It features user-friendly tools, including customizable dashboards and educational resources, aimed at helping users gain a deeper understanding of baseball. The data is sourced from MLB Statcast, API Sports Baseball, and the MLB Stats API.
+Link: https://apps-summer.ischool.berkeley.edu/baseball-viz/ 
 
 ## Usage
 **Python Scripts:** Use the provided Python scripts to fetch and clean the data.

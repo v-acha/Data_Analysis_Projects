@@ -27,5 +27,6 @@ Welcome to my Data Analysis Project repository! Here, you'll find projects cover
       - Developed interactive Tableau dashboards to visualize run expectancy, batting averages, and pitching metrics.
       - Created a detailed data dictionary to assist users in understanding baseball metrics.
    - **Tableau Dashboard:** https://public.tableau.com/app/profile/vanellsa.acha/viz/Baseball_17216957934700/RunExpectancy 
-   - **Website:** I built website using html, css, javascript and python flask for hosting our visualizations. 
+   - **Website:** I built website using html, css, javascript and python flask to host our group's visualizations. 
+      - Link: https://apps-summer.ischool.berkeley.edu/baseball-viz/ 
 
