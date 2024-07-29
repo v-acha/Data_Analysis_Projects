@@ -14,7 +14,7 @@ Welcome to my Data Analysis Project repository! Here, you'll find projects cover
    - **Results:** Three Tableau dashboards presenting all mutations, top 15 mutation values, associated diseases and more. 
    - **Tableau Dashboards:** https://public.tableau.com/app/profile/vanellsa.acha/viz/HarmfulMutations/AllGeneticMutations 
 
-3. [X (Twitter) Engagements and Sentiment Analysis](https://github.com/v-acha/Data_Analysis_Projects/tree/main/tweets)
+3. [X (Twitter) Engagements and Sentiment Analysis](https://github.com/v-acha/Data_Analysis_Projects/tree/main/tweets_analysis)
    - **Description:** Analyzed tweet data from a user's Twitter account to uncover insights on activity patterns, sentiment, and engagement to optimize tweet strategies for better interaction.
    - **Tools Used:** Python, Pandas, TextBlob, Tableau
    - **Tableau Dashboard:** https://public.tableau.com/app/profile/vanellsa.acha/viz/TweetEngagementandSentimentAnalysis/TweetActivity#1
